@@ -1,0 +1,36 @@
+header {
+  padding-left: 100px;
+  height: 50px;
+  background-color: #ffff;
+  border-bottom: 1px solid #aedd94;
+}
+
+header .logo {
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+}
+
+.logo-name{
+	 color: #aedd94;
+
+}
+
+.search{
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 100px;
+}
+
+/*after render*/
+
+.caption{
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px; 
+}
+
+ .js-results{
+ 	text-align: center;
+ }
